@@ -9,12 +9,12 @@ VALUES
     ('Customer service.');
 
      INSERT INTO role
-         (department_id, title, salary)
+          (title,department_id, salary)
     VALUES
-    (1,' Technician', 75000),
-    (2,'Research Engineer.', 74000),
-    (3,'General manager', 2000000),
-    (4,'Customer Service Representatives', 30000);
+    (' Technician',1, 75000),
+    ('Research Engineer.', 2, 74000),
+    ('General manager', 3, 2000000),
+    ('Customer Service Representatives', 4, 30000);
 
     INSERT INTO employee
     (first_name, last_name, role_id, manager_id )
