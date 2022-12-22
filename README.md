@@ -20,11 +20,7 @@ N/A
 ## Usage
 to start off this app you are greeted with 5 options.you can either look into the employees to see whos all on your team and let you exit out of it. 2nd one shows your department and add employees roles and departments.if you have arrows and the  enter key you pretty much understand use to your advantage.
 
-## Screenshot
-[webpage screenshot](assets\workday.PNG)
 
-## Link
-[The link to the webpage.](https://elijahlinton.github.io/workday-calendar/)
 ## Credits
 
 N/A
